@@ -2163,7 +2163,8 @@ img.flag {
 .flag-ug {
   background-position: 0 92.14876%;
 }
-.flag-gb, .flag-uk {
+.flag-gb,
+.flag-uk {
   background-position: 0 92.561983%;
 }
 .flag-um {
@@ -2219,6 +2220,9 @@ img.flag {
 }
 .flag-zw {
   background-position: 0 100%;
+}
+.wall-background {
+  background: radial-gradient(69.84% 69.84% at 50% 100%, var(--primary-color) 50%, var(--surface-ground) 100%);
 }
 /* You can add global styles to this file, and also import other style files */
 .p-component,.p-component *{box-sizing:border-box}
