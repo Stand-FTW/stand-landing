@@ -1393,7 +1393,7 @@ sub {
 ion-title {
   margin-right: 30px;
   line-height: 55px;
-  background: url("/assets/imgs/logos/Stand FTW - Icon - NO BG.png") no-repeat right center;
+  background: url('Stand FTW - Icon - NO BG.png') no-repeat right center;
   background-size: 50px;
 }
 ion-item {
