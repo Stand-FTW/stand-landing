@@ -1,0 +1,29 @@
+[
+    {
+        "item": "Phase 1",
+        "title": "home.why-stand-phase1-title",
+        "subtitle": "home.why-stand-phase1-subtitle",
+        "description": "home.why-stand-phase1-description",
+        "image": "assets/imgs/phases/1.jpeg",
+        "color": "bg-blue-500",
+        "border_color": "border-blue-500"
+    },
+    {
+        "item": "Phase 2",
+        "title": "home.why-stand-phase2-title",
+        "subtitle": "home.why-stand-phase2-subtitle",
+        "description": "home.why-stand-phase2-description",
+        "image": "assets/imgs/phases/2.jpeg",
+        "color": "bg-cyan-500",
+        "border_color": "border-cyan-500"
+    },
+    {
+        "item": "Phase 3",
+        "title": "home.why-stand-phase3-title",
+        "subtitle": "home.why-stand-phase3-subtitle",
+        "description": "home.why-stand-phase3-description",
+        "image": "assets/imgs/phases/3.jpeg",
+        "color": "bg-green-500",
+        "border_color": "border-green-500"
+    }
+]
