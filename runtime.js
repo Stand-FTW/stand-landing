@@ -227,7 +227,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "";
+/******/ 		__webpack_require__.p = "https://stand-ftw.github.io/stand-landing/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
