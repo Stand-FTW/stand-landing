@@ -1,0 +1,44 @@
+[
+    {
+        "service": "Mobile",
+        "title": "home.services-mobile-primary",
+        "description": "home.services-mobile-secondary",
+        "icon": "mobile",
+        "icon_type": "fas"
+    },
+    {
+        "service": "Web",
+        "title": "home.services-web-primary",
+        "description": "home.services-web-secondary",
+        "icon": "chrome",
+        "icon_type": "fab"
+    },
+    {
+        "service": "APIs & Integrações",
+        "title": "home.services-api-primary",
+        "description": "home.services-api-secondary",
+        "icon": "connectdevelop",
+        "icon_type": "fab"
+    },
+    {
+        "service": "Consultoria de negócio",
+        "title": "home.services-business-consulting-primary",
+        "description": "home.services-business-consulting-secondary",
+        "icon": "user-tie",
+        "icon_type": "fas"
+    },
+    {
+        "service": "Metodologia ágil",
+        "title": "home.services-agile-primary",
+        "description": "home.services-agile-secondary",
+        "icon": "rocket",
+        "icon_type": "fas"
+    },
+    {
+        "service": "Tudo em nuvem",
+        "title": "home.services-cloud-primary",
+        "description": "home.services-cloud-secondary",
+        "icon": "cloud",
+        "icon_type": "fas"
+    }
+]
