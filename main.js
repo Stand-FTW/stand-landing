@@ -237,7 +237,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @angular/common */ 6274);
 /* harmony import */ var _angular_common_locales_br__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/common/locales/br */ 8633);
 /* harmony import */ var _angular_common_locales_br__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_angular_common_locales_br__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _angular_router__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! @angular/router */ 9535);
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_19__ = __webpack_require__(/*! @angular/common/http */ 1887);
 /* harmony import */ var _angular_platform_browser_animations__WEBPACK_IMPORTED_MODULE_17__ = __webpack_require__(/*! @angular/platform-browser/animations */ 8366);
 /* harmony import */ var _ionic_angular__WEBPACK_IMPORTED_MODULE_18__ = __webpack_require__(/*! @ionic/angular */ 4595);
@@ -248,7 +247,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fortawesome_free_solid_svg_icons__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @fortawesome/free-solid-svg-icons */ 3117);
 /* harmony import */ var _fortawesome_free_regular_svg_icons__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @fortawesome/free-regular-svg-icons */ 5619);
 /* harmony import */ var _fortawesome_free_brands_svg_icons__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @fortawesome/free-brands-svg-icons */ 3563);
-/* harmony import */ var primeng_api__WEBPACK_IMPORTED_MODULE_28__ = __webpack_require__(/*! primeng/api */ 1388);
+/* harmony import */ var primeng_api__WEBPACK_IMPORTED_MODULE_27__ = __webpack_require__(/*! primeng/api */ 1388);
 /* harmony import */ var primeng_toast__WEBPACK_IMPORTED_MODULE_20__ = __webpack_require__(/*! primeng/toast */ 3666);
 /* harmony import */ var primeng_blockui__WEBPACK_IMPORTED_MODULE_23__ = __webpack_require__(/*! primeng/blockui */ 3250);
 /* harmony import */ var primeng_progressbar__WEBPACK_IMPORTED_MODULE_25__ = __webpack_require__(/*! primeng/progressbar */ 5094);
@@ -260,7 +259,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _shared_interceptors_error_interceptor__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./shared/interceptors/error-interceptor */ 9751);
 /* harmony import */ var _shared_pipes_pipe_module__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./shared/pipes/pipe.module */ 9502);
 /* harmony import */ var _shared_directive_directives_module__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./shared/directive/directives.module */ 9513);
-
 
 
 
@@ -337,9 +335,12 @@ AppModule = (0,tslib__WEBPACK_IMPORTED_MODULE_14__.__decorate)([
             _shared_directive_directives_module__WEBPACK_IMPORTED_MODULE_6__.DirectivesModule,
         ],
         providers: [
-            { provide: _angular_router__WEBPACK_IMPORTED_MODULE_27__.RouteReuseStrategy, useClass: _ionic_angular__WEBPACK_IMPORTED_MODULE_18__.IonicRouteStrategy },
-            primeng_api__WEBPACK_IMPORTED_MODULE_28__.MessageService,
-            primeng_api__WEBPACK_IMPORTED_MODULE_28__.ConfirmationService,
+            {
+                provide: _angular_common__WEBPACK_IMPORTED_MODULE_7__.LocationStrategy,
+                useClass: _angular_common__WEBPACK_IMPORTED_MODULE_7__.HashLocationStrategy
+            },
+            primeng_api__WEBPACK_IMPORTED_MODULE_27__.MessageService,
+            primeng_api__WEBPACK_IMPORTED_MODULE_27__.ConfirmationService,
             primeng_dynamicdialog__WEBPACK_IMPORTED_MODULE_21__.DialogService,
             _shared_interceptors_error_interceptor__WEBPACK_IMPORTED_MODULE_4__.errorInterceptorProvider,
             {
