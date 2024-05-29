@@ -1,4 +1,4 @@
-(self["webpackChunkgtl"] = self["webpackChunkgtl"] || []).push([[1695],{
+(self["webpackChunkcom_standftw_landingpage"] = self["webpackChunkcom_standftw_landingpage"] || []).push([[1695],{
 
 /***/ 1695:
 /*!***************************************************************!*\

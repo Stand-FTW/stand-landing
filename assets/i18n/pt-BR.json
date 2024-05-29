@@ -101,7 +101,10 @@
         "menu-preferences": "Preferências",
         "menu-subtitle": "Stand FTW ®",
         "menu-route-home": "Home",
-        "menu-route-apps": "Aplicações"
+        "menu-route-stand-core": "Stand Core",
+        "menu-route-contact-us": "Fale conosco",
+        "menu-route-apps": "Aplicações",
+        "contact-us": "Entre em contato conosco"
     },
     "home": {
         "main-title": "Home",
@@ -124,11 +127,9 @@
         "services-agile-secondary": "Entregas utilizando metodologia ágil com Kaban e Scrumban",
         "services-cloud-primary": "Tudo em nuvem",
         "services-cloud-secondary": "Todas as aplicações e soluções são disponbilizadas via Cloud, garantindo segurança e escalabilidade",
-        
         "solutions-banner-title": "Soluções de acordo com a sua necessidade",
         "solutions-banner-subtitle": "Independentes, mas integráveis",
         "solutions-more": "Saiba mais",
-
         "solutions-stand-core-title": "Stand Core",
         "solutions-stand-core-subtitle": "O nosso carro chefe",
         "solutions-stand-core-description": "Gerencie lojas, colaboradores, clientes, prestação de serviços, assinaturas, produtos, estoques e muito mais",
@@ -138,35 +139,27 @@
         "solutions-stand-link-title": "Stand Link",
         "solutions-stand-link-subtitle": "Consultoria para integrações e automações",
         "solutions-stand-link-description": "Integre e automatize processos e sistemas, como a nossa expertise",
-        
-        "check-title":"Leve-se ao próximo nível",
-        "check-subtitle":"Focado em você",
-                
+        "check-title": "Leve-se ao próximo nível",
+        "check-subtitle": "Focado em você",
         "check-generic-solution-title": "Sem soluções genéricas",
         "check-high-cost-title": "Sem cobranças absurdas por uma solução que não te atende",
         "check-guessing-solution-title": "Sem adivinhação sobre o que você realmente precisa",
         "check-fair-solution-title": "Com um preço justo, proporcional às suas demandas reais",
-
         "why-stand-title": "Por que a Stand?",
         "why-stand-subtitle-1": "Na Stand, acreditamos em desafiar o status quo, nadar contra a correnteza da mediocridade",
         "why-stand-subtitle-2": "Personalização é a chave, e nós a giramos exclusivamente para você",
-        
         "why-stand-phase1-title": "Sem promessas milagrosas",
         "why-stand-phase1-subtitle": "A transparência não é apenas um compromisso, é um princípio na Stand",
         "why-stand-phase1-description": "Sem promessas milagrosas de sistemas prontos para resolver todos os seus problemas, sem entender nada sobre o que você realmente precisa? Aquela ladainha de \"conhecemos o seu negócio\" antes mesmo de uma conversa?",
-        
         "why-stand-phase2-title": "Sem entregas genéricas",
         "why-stand-phase2-subtitle": "Software não é um tamanho único que serve para todos",
         "why-stand-phase2-description": "O software é algo pessoal, íntimo, e na Stand, o seu software é construído sob medida. Nada de soluções padrão, sem o devido entendimento das suas necessidades",
-
         "why-stand-phase3-title": "Desafio & Personalização",
         "why-stand-phase3-subtitle": "Pronto para uma revolução em software?",
         "why-stand-phase3-description": "Estamos prontos para construir algo feito sob medida para a sua grandeza. Vamos além do genérico, porque você merece mais do que promessas vazias. Bem-vindo à Stand, onde o software encontra a singularidade da sua empresa. ✨💻🚀",
-        
         "enpower-banner-title": "Faça um test drive",
         "enpower-banner-subtitle": "Veja um pouco do Stand Core em ação",
         "enpower-banner-button": "Testar",
-
         "contact-title": "Contate-nos!",
         "contact-description": "Estamos distponíveis para te atender via E-mail, WhatsApp, Facebook e Instagram",
         "contact-firstname": "Nome",
@@ -211,5 +204,161 @@
         "dls-description": "Solução micro-empreendedora para pequenas e médias empresas, com foco em controle gerencial e operacional do negócio.",
         "dls-function": "Desenvolvedor Fullstack",
         "dls-system_type": "Web/Mobile/PWA"
+    },
+    "stand-core": {
+        "main-title": "Stand Core",
+        "main-title-text": "A revolução que você estava procurando, o ",
+        "sub-title": "Uma solução única e integrativa, para a gestão, sistematização e operação do seu negócio",
+        "sub-title-1": "Módulos administrativos e operacionais",
+        "sub-title-2": "Gestão de acesso e autorização",
+        "sub-title-3": "Controle, dashs e relatórios para acompanhamento",
+        "feature-main-title": "Funcionalidades",
+        "feature-sub-title": "Acompanhe conosco, algumas das muitas funcionalidades que o Stand Core tem a oferecer",
+        "feature-bullet-loja": "Lojas",
+        "feature-bullet-despesa": "Despesas",
+        "feature-bullet-empresa": "Empresas",
+        "feature-bullet-contrato": "Contratos",
+        "feature-bullet-cargo": "Cargos",
+        "feature-bullet-beneficio": "Benefícios",
+        "feature-bullet-area": "Áreas",
+        "feature-bullet-patrimonio": "Patrimônios",
+        "feature-bullet-colaborador": "Colaboradores",
+        "feature-bullet-prestador": "Prestadores",
+        "feature-bullet-usuario-sistema": "Usuários de Sistema",
+        "feature-bullet-produto": "Produtos",
+        "feature-bullet-servico": "Serviços",
+        "feature-bullet-plano": "Planos de Assinatura",
+        "feature-bullet-cliente": "Clientes",
+        "feature-geral": {
+            "main-title": "Realize a administração geral da sua empresa",
+            "sub-title": "",
+            "description": "Desde suas lojas com seus respectivos estoques, à empresas parceiras e seus contratos"
+        },
+        "feature-operacao": {
+            "main-title": "Realize a administração operacional da sua empresa",
+            "sub-title": "",
+            "description": "Cadastre seus produtos, serviços e planos ofertados no seu negócio"
+        },
+        "feature-rh": {
+            "main-title": "Realize operações de RH e hierarquia empresarial",
+            "sub-title": "",
+            "description": "Controle e gerencie, benefícios, cargos, áreas, hierarquias e patrimônios da sua empresa"
+        },
+        "feature-pessoal": {
+            "main-title": "Administre seus recursos, parceiros e usuários de sistema",
+            "sub-title": "",
+            "description": "Desfrutando de um módulo desacoplado e personalizado para cada tipo de pessoa que você deseja deter cadastro e/ou acesso ao seu sistema"
+        },
+        "feature-cliente-1": {
+            "main-title": "O coração de todo negócio, o cliente!",
+            "sub-title": "",
+            "description": "Faça gestão completa dos seus clientes, desde cadastros à módulos de inteligência de comportamento e comunicação"
+        },
+        "feature-cliente-2": {
+            "main-title": "O segredo por trás do sucesso com seu cliente",
+            "sub-title": "",
+            "description": "Monitore o comportamento de compras e prestações de serviços que seus clientes fazem com você"
+        },
+        "feature-outros-8": {
+            "main-title": "Controle de transações",
+            "sub-title": "",
+            "description": "Monitore toda e qualquer transação de entrada/saída da sua empresa em tempo real"
+        },
+        "feature-outros-9": {
+            "main-title": "Configura fluxos de pagamento",
+            "sub-title": "",
+            "description": "Escolha quais perfis e/ou cargos podem aprovar determinados fluxos para saída de caixa"
+        },
+        "feature-outros-10": {
+            "main-title": "Solicitações de pagamentos",
+            "sub-title": "",
+            "description": "Verifique todas as pendências de pagamento, junto aos responsáveis por suas aprovações"
+        },
+        "feature-outros-11": {
+            "main-title": "Solicitações de pagamentos",
+            "sub-title": "",
+            "description": "Aprove ou rejeite solicitações, monitorando os arquivos anexados à cada solicitação"
+        },
+        "feature-outros-12": {
+            "main-title": "Controle e Auditoria de pagamentos",
+            "sub-title": "",
+            "description": "Verifique e filtre todos os eventos realizados em diversas solicitações de pagamentos"
+        },
+        "feature-outros-13": {
+            "main-title": "Detalhe e audite",
+            "sub-title": "",
+            "description": "Todas as aprovações, quem e quando"
+        },
+        "feature-outros-14": {
+            "main-title": "Administre seus empreendimentos",
+            "sub-title": "",
+            "description": "Cuide de todos os projetos que sua empresa está desenvolvendo, alocando recursos e associando contratos ao mesmo"
+        },
+        "feature-outros-15": {
+            "main-title": "Operações de venda",
+            "sub-title": "",
+            "description": "Utilize o PDV para realizar suas vendas."
+        },
+        "feature-outros-16": {
+            "main-title": "Gestão dos planos de assinatura",
+            "sub-title": "",
+            "description": "Faça toda a gestão dos planos de assinatura dos seus clientes"
+        },
+        "feature-outros-17": {
+            "main-title": "Operacionalização dos planos de assinatura",
+            "sub-title": "",
+            "description": "Faça toda a gestão dos planos de assinatura dos seus clientes"
+        },
+        "feature-outros-18": {
+            "main-title": "Prestação de Serviços",
+            "sub-title": "",
+            "description": "Realize toda a gestão e operacionalização de prestação de serviços"
+        },
+        "feature-mais": "E muito mais!",
+        "solution": {
+            "main-title": "Sobre a solução",
+            "main-subtitle": "O Stand Core aposta na alta disponibilidade, escalabilidade e integratividade",
+            "cloud-title": "Cloud",
+            "cloud-subtitle": "Ambiente online e seguro 100% cloud!",
+            "cloud-description": "Seus dados, sempre disponíveis, com a segurança e escalabilidade das plataformas cloud",
+            "plataform-title": "Multiplataforma",
+            "plataform-subtitle": "Desktop? Mac? Notebook? Tablet? Smartphone?",
+            "plataform-description": "Não importa! O Stand Core se adapta a qualquer que seja a sua realidade para melhor te atender",
+            "integration-title": "Integrado & Integrativo",
+            "integration-subtitle": "Uma solução capaz de se integrar à qualquer outro sistema, seja como consumidor, seja como fornecedor dos dados e operações",
+            "integration-description": "Contando com uma API Rest documentada com Swagger, você pode extender o Stand Core. O mesmo também por sua vez, pode consumir qualquer tipo de Web Service existente no mercado"
+        },
+        "contact-us": {
+            "experimente": "Experimente!",
+            "main-title": "Gostaria de uma demonstração?",
+            "main-subtitle": "Entre em contato conosco!",
+            "card-title": "Viva essa experiência!",
+            "card-description": "Temos um ambiente online disponível para testar a solução, sem qualquer tipo de taxa ou compromisso!"
+        }
+    },
+    "contact-us": {
+        "main-title": "Contate-nos",
+        "form-name": "Seu nome",
+        "form-company": "Sua empresa",
+        "form-email": "Seu e-mail",
+        "form-phone": "Seu celular/telefone",
+        "form-reason": "Motivo do contato",
+        "form-chars-1": "Caracteres",
+        "form-chars-2": "de",
+        "form-send": "Enviar",
+        "form-erro-required": "Obrigatório",
+        "form-erro-just-numbers-8": "Apenas números, no mínimo 8 dígitos",
+        "form-erro-just-numbers-2": "Apenas números, exatamente 2 dígitos",
+        "form-erro-say-more": "Fale um pouco mais"
+    },
+    "toast": {
+        "contact-form": {
+            "title-success": "Sucesso!",
+            "detail-success": "Recebemos sua solicitação"
+        },
+        "home-know-more": {
+            "title-warning": "Aguarde",
+            "detail-warning": "Em breve"
+        }
     }
 }

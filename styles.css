@@ -2224,6 +2224,22 @@ img.flag {
 .wall-background {
   background: radial-gradient(69.84% 69.84% at 50% 100%, var(--primary-color) 50%, var(--surface-ground) 100%);
 }
+.p-image-toolbar {
+  z-index: 9998 !important;
+  margin-top: 5rem;
+}
+.p-image-toolbar button {
+  z-index: 9999 !important;
+}
+.zap-btn {
+  position: fixed;
+  bottom: 20px;
+  /* Ajuste a distância da parte inferior conforme necessário */
+  right: 20px;
+  /* Ajuste a distância da parte direita conforme necessário */
+  z-index: 1000;
+  /* Certifique-se de que o botão esteja acima de outros elementos */
+}
 /* You can add global styles to this file, and also import other style files */
 .p-component,.p-component *{box-sizing:border-box}
 .p-hidden{display:none}

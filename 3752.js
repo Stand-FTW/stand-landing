@@ -1,6 +1,6 @@
-(self["webpackChunkgtl"] = self["webpackChunkgtl"] || []).push([[3752],{
+(self["webpackChunkcom_standftw_landingpage"] = self["webpackChunkcom_standftw_landingpage"] || []).push([[3752],{
 
-/***/ 3859:
+/***/ 9743:
 /*!****************************************************************!*\
   !*** ./node_modules/@ionic/core/dist/esm/ion-route_4.entry.js ***!
   \****************************************************************/

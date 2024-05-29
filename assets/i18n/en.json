@@ -101,7 +101,10 @@
         "menu-preferences": "Preferences",
         "menu-subtitle": "Stand FTW ®",
         "menu-route-home": "Home",
-        "menu-route-apps": "Applications"
+        "menu-route-stand-core": "Stand Core",
+        "menu-route-contact-us": "Contact us",
+        "menu-route-apps": "Applications",
+        "contact-us": "Contact us"
     },
     "home": {
         "main-title": "Home",
@@ -201,5 +204,161 @@
         "dls-description": "Micro-enterprise solution for small and medium-sized companies, focused on managerial and operational control of the business.",
         "dls-function": "Fullstack Developer",
         "dls-system_type": "Web/Mobile/PWA"
+    },
+    "stand-core": {
+        "main-title": "Stand Core",
+        "main-title-text": "The revolution you've been looking for, the ",
+        "sub-title": "A unique and integrative solution for managing, systematizing, and operating your business",
+        "sub-title-1": "Administrative and operational modules",
+        "sub-title-2": "Access and authorization management",
+        "sub-title-3": "Control, dashboards, and reports for monitoring",
+        "feature-main-title": "Features",
+        "feature-sub-title": "Check out some of the many features that Stand Core has to offer",
+        "feature-bullet-loja": "Stores",
+        "feature-bullet-despesa": "Expenses",
+        "feature-bullet-empresa": "Companies",
+        "feature-bullet-contrato": "Contracts",
+        "feature-bullet-cargo": "Positions",
+        "feature-bullet-beneficio": "Benefits",
+        "feature-bullet-area": "Areas",
+        "feature-bullet-patrimonio": "Assets",
+        "feature-bullet-colaborador": "Employees",
+        "feature-bullet-prestador": "Providers",
+        "feature-bullet-usuario-sistema": "System Users",
+        "feature-bullet-cliente": "Clients",
+        "feature-bullet-produto": "Products",
+        "feature-bullet-servico": "Services",
+        "feature-bullet-plano": "Subscription Plans",
+        "feature-geral": {
+            "main-title": "Perform the general administration of your company",
+            "sub-title": "",
+            "description": "From your stores with their respective inventories, to partner companies and their contracts"
+        },
+        "feature-operacao": {
+            "main-title": "Perform the operational administration of your company",
+            "sub-title": "",
+            "description": "Register your products, services, and plans offered in your business"
+        },
+        "feature-rh": {
+            "main-title": "Perform HR operations and company hierarchy",
+            "sub-title": "",
+            "description": "Control and manage benefits, positions, areas, hierarchies, and assets of your company"
+        },
+        "feature-pessoal": {
+            "main-title": "Manage your resources, partners, and system users",
+            "sub-title": "",
+            "description": "Enjoy a decoupled and customized module for each type of person you want to register and/or grant access to your system"
+        },
+        "feature-cliente-1": {
+            "main-title": "The heart of every business, the client!",
+            "sub-title": "",
+            "description": "Fully manage your clients, from registrations to behavior intelligence and communication modules"
+        },
+        "feature-cliente-2": {
+            "main-title": "The secret behind success with your client",
+            "sub-title": "",
+            "description": "Monitor the purchasing and service behaviors your clients have with you"
+        },
+        "feature-outros-8": {
+            "main-title": "Transaction control",
+            "sub-title": "",
+            "description": "Monitor all incoming/outgoing transactions of your company in real time"
+        },
+        "feature-outros-9": {
+            "main-title": "Configure payment flows",
+            "sub-title": "",
+            "description": "Choose which profiles and/or positions can approve certain flows for cash outflows"
+        },
+        "feature-outros-10": {
+            "main-title": "Payment requests",
+            "sub-title": "",
+            "description": "Check all payment pending issues along with the responsible approvers"
+        },
+        "feature-outros-11": {
+            "main-title": "Payment requests",
+            "sub-title": "",
+            "description": "Approve or reject requests, monitoring the attached files for each request"
+        },
+        "feature-outros-12": {
+            "main-title": "Payment control and auditing",
+            "sub-title": "",
+            "description": "Check and filter all events carried out in various payment requests"
+        },
+        "feature-outros-13": {
+            "main-title": "Detail and audit",
+            "sub-title": "",
+            "description": "All approvals, who and when"
+        },
+        "feature-outros-14": {
+            "main-title": "Manage your enterprises",
+            "sub-title": "",
+            "description": "Take care of all the projects your company is developing, allocating resources and associating contracts with them"
+        },
+        "feature-outros-15": {
+            "main-title": "Sales operations",
+            "sub-title": "",
+            "description": "Use the POS to make your sales."
+        },
+        "feature-outros-16": {
+            "main-title": "Subscription plan management",
+            "sub-title": "",
+            "description": "Manage all your clients' subscription plans"
+        },
+        "feature-outros-17": {
+            "main-title": "Operationalization of subscription plans",
+            "sub-title": "",
+            "description": "Manage all your clients' subscription plans"
+        },
+        "feature-outros-18": {
+            "main-title": "Service provision",
+            "sub-title": "",
+            "description": "Manage and operationalize service provision"
+        },
+        "feature-mais": "And much more!",
+        "solution": {
+            "main-title": "About the solution",
+            "main-subtitle": "Stand Core bets on high availability, scalability, and integrativity",
+            "cloud-title": "Cloud",
+            "cloud-subtitle": "Online and secure 100% cloud environment!",
+            "cloud-description": "Your data, always available, with the security and scalability of cloud platforms",
+            "plataform-title": "Multiplatform",
+            "plataform-subtitle": "Desktop? Mac? Notebook? Tablet? Smartphone?",
+            "plataform-description": "It doesn't matter! Stand Core adapts to whatever your reality is to better serve you",
+            "integration-title": "Integrated & Integrative",
+            "integration-subtitle": "A solution capable of integrating with any other system, either as a consumer or provider of data and operations",
+            "integration-description": "With a Rest API documented with Swagger, you can extend Stand Core. It can also consume any type of Web Service available in the market"
+        },
+        "contact-us": {
+            "experimente": "Try it!",
+            "main-title": "Would you like a demonstration?",
+            "main-subtitle": "Contact us!",
+            "card-title": "Experience it!",
+            "card-description": "We have an online environment available to test the solution, without any kind of fee or commitment!"
+        }
+    },
+    "contact-us": {
+        "main-title": "Contact us",
+        "form-name": "Your name",
+        "form-company": "Your company",
+        "form-email": "Your email",
+        "form-phone": "Your phone/cellphone",
+        "form-reason": "Reason for contact",
+        "form-chars-1": "Characters",
+        "form-chars-2": "of",
+        "form-send": "Send",
+        "form-erro-required": "Required",
+        "form-erro-just-numbers-8": "Only numbers, at least 8 digits",
+        "form-erro-just-numbers-2": "Only numbers, exactly 2 digits",
+        "form-erro-say-more": "Say a little more"
+    },
+    "toast": {
+        "contact-form": {
+            "title-success": "Success!",
+            "detail-success": "We have received your request"
+        },
+        "home-know-more": {
+            "title-warning": "Please wait",
+            "detail-warning": "Coming soon"
+        }
     }
 }

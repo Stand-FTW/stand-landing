@@ -1,17 +1,20 @@
 [
     {
+        "id": "stand-core",
         "image": "assets/imgs/produtos e servicos/Stand Core - 1.jpeg",
         "title": "home.solutions-stand-core-title",
         "subtitle": "home.solutions-stand-core-subtitle",
         "description": "home.solutions-stand-core-description"
     },
     {
+        "id": "stand-conds",
         "image": "assets/imgs/produtos e servicos/Stand Conds - 1.jpeg",
         "title": "home.solutions-stand-conds-title",
         "subtitle": "home.solutions-stand-conds-subtitle",
         "description": "home.solutions-stand-conds-description"
     },
     {
+        "id": "stand-link",
         "image": "assets/imgs/produtos e servicos/Stand Link - 1.jpeg",
         "title": "home.solutions-stand-link-title",
         "subtitle": "home.solutions-stand-link-subtitle",
